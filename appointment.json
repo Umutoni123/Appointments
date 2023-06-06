@@ -1,0 +1,22 @@
+{
+  "appointments": [
+    {
+      "name": "noella UMUTONI",
+      "phone": "+250784296322",
+      "email": "noellaumutoni5@gmail.com",
+      "date": "2023-06-06",
+      "time": "13:10",
+      "reason": "Check up",
+      "id": 1
+    },
+    {
+      "name": "Ganza Herman",
+      "phone": "+250787162022",
+      "email": "ganza@gmail.com",
+      "date": "2023-06-06",
+      "time": "13:15",
+      "reason": "meeting",
+      "id": 2
+    }
+  ]
+}
